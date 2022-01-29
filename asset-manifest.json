@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vesta/static/css/main.afc49875.css",
+    "main.js": "/vesta/static/js/main.989838a3.js",
+    "static/media/hero.png": "/vesta/static/media/hero.620e4e776e88be719e5b.png",
+    "static/media/pink.png": "/vesta/static/media/pink.d05173a96a52a223caa5.png",
+    "static/media/green.png": "/vesta/static/media/green.fe99eafbace16142bac6.png",
+    "index.html": "/vesta/index.html",
+    "main.afc49875.css.map": "/vesta/static/css/main.afc49875.css.map",
+    "main.989838a3.js.map": "/vesta/static/js/main.989838a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc49875.css",
+    "static/js/main.989838a3.js"
+  ]
+}
